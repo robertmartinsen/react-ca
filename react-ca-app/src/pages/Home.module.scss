@@ -1,0 +1,35 @@
+@import "./../styles/variables.scss";
+
+img {
+  height: 300px;
+  object-fit: cover;
+}
+
+.product-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cardbox {
+  height: 100px;
+}
+
+.card-text {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+$btn-secondary: $bg;
+
+s {
+  color: rgb(244, 0, 0);
+}

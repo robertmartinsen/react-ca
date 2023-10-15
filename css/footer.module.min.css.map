@@ -1,0 +1,1 @@
+{"version":3,"sources":["../react-ca-app/src/components/footer.module.scss"],"names":[],"mappings":"AACA,QACI,uBAAA","file":"footer.module.min.css","sourcesContent":["\n.footer {\n    background-color: purple;\n  }\n  "]}

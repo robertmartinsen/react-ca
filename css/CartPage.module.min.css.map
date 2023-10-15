@@ -1,0 +1,1 @@
+{"version":3,"sources":["../react-ca-app/src/pages/CartPage.module.scss"],"names":[],"mappings":"AAAA,gBACI,4BAAA","file":"CartPage.module.min.css","sourcesContent":[".original-price {\n    text-decoration: line-through;\n  }"]}
