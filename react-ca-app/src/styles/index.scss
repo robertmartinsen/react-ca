@@ -3,29 +3,12 @@
 *,
 *::before,
 *::after {
-    box-sizing: border-box;
-    margin: 0;
+  box-sizing: border-box;
+  margin: 0;
 }
 
-body{
-    font-family: $Poppins;
-    color: $dark;
-    height: 100%;
-    width: 100%;
-}
-
-#root {
-    height: 100%;
-}
-
-button {
-    font-family: inherit;
-    outline: none;
-    border: none;
-    background: none;
-    letter-spacing: inherit;
-    color: inherit;
-    font-size: inherit;
-    text-align: inherit;
-    padding: 0;
+body {
+  font-family: $Poppins;
+  color: $dark;
+  min-height: 100vh;
 }
