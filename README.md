@@ -1,5 +1,7 @@
 # React-CA - Online Shopping Web Application
 
+![Alt text](/README.png)
+
 Welcome to the React-CA project! This is an online shopping web application built using React, Bootstrap, and SCSS.
 
 ## Technologies Used
